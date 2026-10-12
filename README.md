@@ -42,7 +42,7 @@ Define the following input variables:
 configure the following
 - `organization name`: your-org-name
 - `project name`: azure-boards-prj-name
-- `work item type`: User Story (please check this)
+- `work item type`: User Story
 - `work item ID`: parentStoryID (insert dynamic content)
 
 *Else* : Create a work item (add tool)
