@@ -40,16 +40,16 @@ Define the following input variables:
 *If True* : Get work item details (add tool)
 
 configure the following
-- `organization name`: <your-org-name>
-- `project name`: <azure-boards-prj-name>
+- `organization name`: your-org-name
+- `project name`: azure-boards-prj-name
 - `work item type`: User Story (please check this)
 - `work item ID`: parentStoryID (insert dynamic content)
 
 *Else* : Create a work item (add tool)
 
 configure the following
-- `organization name`: <your-org-name>
-- `project name`: <azure-boards-prj-name>
+- `organization name`: your-org-name
+- `project name`: azure-boards-prj-name
 - `work item type`: User Story
 - Work item details:
   - `Title` title (insert dynamic content)
@@ -69,8 +69,8 @@ configure the following
 *If True* : create a work item - Task (add tool)
 
 configure the following
-- `organization name`: <your-org-name>
-- `project name`: <azure-boards-prj-name>
+- `organization name`: your-org-name
+- `project name`: azure-boards-prj-name
 - `work item type`: Task
 - Work item details:
   - `Title` title (insert dynamic content)
