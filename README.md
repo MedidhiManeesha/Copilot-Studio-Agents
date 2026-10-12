@@ -89,7 +89,7 @@ configure the following
 
 
 #### 2. Decision Logic Canvas Setup
-
+![Create-AzureDevOps-WorkItem](image.png)
 
 ### Step 2: Configure Agent in Copilot Studio
 
