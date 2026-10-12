@@ -9,7 +9,6 @@ ADO Agent is a **Copilot Studio AI Agent** that combines real-time Azure Boards 
 1. **Microsoft Copilot Studio** license and environment with Generative AI features enabled.
 2. **Power Automate / Cloud Flow** maker permissions.
 3. **Azure DevOps** account with permissions to read/create work items in your target project.
-4. An established Azure DevOps connection using OAuth / PAT.
 
 ---
 
