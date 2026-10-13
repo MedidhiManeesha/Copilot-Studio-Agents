@@ -9,7 +9,6 @@ ADO Agent is a **Copilot Studio AI Agent** that combines real-time Azure Boards 
 1. **Microsoft Copilot Studio** license and environment with Generative AI features enabled.
 2. **Power Automate / Cloud Flow** maker permissions.
 3. **Azure DevOps** account with permissions to read/create work items in your target project.
-4. An established Azure DevOps connection using OAuth / PAT.
 
 ---
 
@@ -41,16 +40,16 @@ Define the following input variables:
 *If True* : Get work item details (add tool)
 
 configure the following
-- `organization name`: <your-org-name>
-- `project name`: <azure-boards-prj-name>
-- `work item type`: User Story (please check this)
+- `organization name`: your-org-name
+- `project name`: azure-boards-prj-name
+- `work item type`: User Story
 - `work item ID`: parentStoryID (insert dynamic content)
 
 *Else* : Create a work item (add tool)
 
 configure the following
-- `organization name`: <your-org-name>
-- `project name`: <azure-boards-prj-name>
+- `organization name`: your-org-name
+- `project name`: azure-boards-prj-name
 - `work item type`: User Story
 - Work item details:
   - `Title` title (insert dynamic content)
@@ -70,8 +69,8 @@ configure the following
 *If True* : create a work item - Task (add tool)
 
 configure the following
-- `organization name`: <your-org-name>
-- `project name`: <azure-boards-prj-name>
+- `organization name`: your-org-name
+- `project name`: azure-boards-prj-name
 - `work item type`: Task
 - Work item details:
   - `Title` title (insert dynamic content)
