@@ -127,6 +127,11 @@ Paste the following instructions from **Instructions** file
 
 ---
 
+## Publish in Teams & Result images
+
+![Teams-chat](image-1.png)
+![Teams-chat-2](image-2.png)
+
 ## References & Supporting Documentation
 
 - [Microsoft Copilot Studio Documentation](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
